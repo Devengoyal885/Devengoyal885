@@ -24,7 +24,7 @@ Currently open to **Software Development, Full Stack Development, Product Engine
 
 ## Achievements
 
-🏆 Hackathon Participant & Project Builder
+🏆 Hackathon Winner & Project Builder
 
 💡 Patent Contributor
 
