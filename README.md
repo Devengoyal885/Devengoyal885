@@ -57,21 +57,20 @@
 
 ## 📊 **GitHub Analytics**
 
-<table align="center" width="100%">
-  <tr>
-    <td align="center"> 
-      <img src="https://github-readme-stats.vercel.app/api?username=Devengoyal885&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=00D2FF&ring_color=6C63FF&count_private=true" width="450" />
-    </td>
-    <td align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Devengoyal885&theme=tokyonight&hide_border=true&background=0D1117&stroke=6C63FF&ring=6C63FF&fire=FF6B6B&currStreakNum=FFFFFF" width="450" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devengoyal885&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF" width="400" />
-    </td>
-  </tr>
-</table>
+<br/>
+
+<!-- Using different API endpoints that are more reliable -->
+<div align="center">
+  <a href="https://github.com/Devengoyal885">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Devengoyal885&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Devengoyal885&layout=compact&langs_count=8&theme=algolia"/>
+  </a>
+</div>
+
+<br/>
+
+
+
 
 ---
 
