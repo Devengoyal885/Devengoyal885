@@ -1,168 +1,138 @@
-<h1 align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=42&duration=3000&pause=500&color=6C63FF&center=true&vCenter=true&random=false&width=700&height=90&lines=Namaste!+I'm+Deven+Goyal+%F0%9F%99%8F;Crafting+Scalable+Web+Apps;Turning+Ideas+into+Reality;Hackathon+Winner+%F0%9F%8F%86;Open+Source+Contributor" />
-</h1>
-
-<h3 align="center">
-  <img src="https://img.shields.io/badge/B.Tech_CSE-Chandigarh_University_2024--2028-6C63FF?style=for-the-badge&logo=graduation-cap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Open_For-Full_Stack_%7C_Product_%7C_AI_Roles-00D2FF?style=for-the-badge&logo=target&logoColor=white" />
-</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Devengoyal885&label=Profile%20Views&color=6C63FF&style=for-the-badge" />
-</p>
-
-<br/>
-
-<!-- SNAKE ANIMATION - LIVE -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Devengoyal885/Devengoyal885/output/snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Devengoyal885/Devengoyal885/output/snake.svg">
-  <img alt="Snake animation eating contributions" src="https://raw.githubusercontent.com/Devengoyal885/Devengoyal885/output/snake.svg">
-</picture>
-
-<br/><br/>
-
----
-
-## 👨‍💻 **About Me**
-
-<table align="center" width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <ul>
-        <li>🚀 <b>Product-minded developer</b> crafting scalable web apps & AI tools</li>
-        <li>🌍 <b>Open source contributor</b> — Code is better when shared</li>
-        <li>🏆 <b>Hackathon winner</b> — I thrive under pressure</li>
-        <li>💡 <b>Patent contributor</b> — Turning ideas into reality</li>
-        <li>✍️ <b>Technical writer</b> — <a href="https://hashnode.com/@devengoyal">Check my blogs →</a></li>
-        <li>📚 Currently deep-diving into <b>System Design</b> & <b>Cloud Architecture</b></li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <pre style="background: #0d1117; padding: 15px; border-radius: 10px;">
-<span style="color: #ff6b6b;">const</span> <span style="color: #4ecdc4;">deven</span> = {
-  <span style="color: #ffe66d;">role</span>:      <span style="color: #6c63ff;">"Full Stack Developer"</span>,
-  <span style="color: #ffe66d;">education</span>: <span style="color: #6c63ff;">"B.Tech CSE"</span>,
-  <span style="color: #ffe66d;">university</span>:<span style="color: #6c63ff;">"Chandigarh University"</span>,
-  <span style="color: #ffe66d;">stack</span>:     [<span style="color: #00d2ff;">"React"</span>, <span style="color: #00d2ff;">"Node"</span>, <span style="color: #00d2ff;">"MongoDB"</span>],
-  <span style="color: #ffe66d;">passion</span>:   <span style="color: #6c63ff;">"AI + Product"</span>,
-  <span style="color: #ffe66d;">hireable</span>:  <span style="color: #4ecdc4;">true</span> ✅
-};
-      </pre>
-    </td>
-  </tr>
-</table>
-
----
-
-## 📊 **GitHub Analytics**
-
-<br/>
-
-<!-- Using different API endpoints that are more reliable -->
 <div align="center">
-  <a href="https://github.com/Devengoyal885">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Devengoyal885&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Devengoyal885&layout=compact&langs_count=8&theme=algolia"/>
-  </a>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:1A1A2E&height=180&section=header&text=DEVEN%20GOYAL&fontSize=52&fontColor=6C63FF&fontAlignY=45&desc=Full%20Stack%20Developer%20%C2%B7%20AI%20Builder%20%C2%B7%20Chandigarh&descAlignY=68&descSize=16&descColor=8A8FA3" width="100%"/>
+
 </div>
 
 <br/>
 
+<table align="center" width="100%">
+<tr>
+<td width="65%" valign="top">
 
+### Hey, I'm Deven 👋
 
+<img src="./assets/avatar.png" width="140" align="right" style="border-radius: 12px; margin-left: 16px;" />
 
----
+I build full-stack products with a bias toward AI. Based in **Jind, Haryana**, currently reading for a **B.Tech in CSE at Chandigarh University**. Most of what I ship lives at the intersection of clean interfaces and useful automation — from AI productivity tools to scalable web apps.
 
-## 📈 **Contribution Graph**
+I've picked up a couple of hackathon wins along the way, contribute to open source when I can, and write about what I learn on Hashnode.
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Devengoyal885&theme=tokyo-night&bg_color=0D1117&color=6C63FF&line=00D2FF&point=FF6B6B&hide_border=true" width="100%" />
+> *"Ship the thing. Learn from the thing. Ship the next thing."*
 
----
+</td>
+<td width="35%" valign="top">
 
-## 🛠️ **Tech Stack**
+**At a glance**
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,js,c,react,nextjs,nodejs,express,tailwind,html,css,mongodb,mysql,git,github,linux,postman,figma,vscode&perline=9&theme=dark" />
-</p>
+| | |
+|---|---|
+| 🎓 | B.Tech CSE, Chandigarh University |
+| 📍 | Jind, Haryana, India |
+| 🧠 | AI + Full-Stack Product |
+| 🏆 | Hackathon winner |
+| 💡 | Patent contributor |
+| ✍️ | [Writes on Hashnode](https://hashnode.com/@devengoyal) |
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Frontend-React_•_Next.js_•_Tailwind-6C63FF?style=for-the-badge&logo=react&logoColor=white&labelColor=1A1A2E" />
-  <img src="https://img.shields.io/badge/Backend-Node.js_•_Express_•_REST-00D2FF?style=for-the-badge&logo=node.js&logoColor=white&labelColor=1A1A2E" />
-  <br/>
-  <img src="https://img.shields.io/badge/Database-MongoDB_•_MySQL-4ECDC4?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=1A1A2E" />
-  <img src="https://img.shields.io/badge/AI%2FML-OpenAI_•_LangChain-FF6B6B?style=for-the-badge&logo=openai&logoColor=white&labelColor=1A1A2E" />
-</p>
-
----
-
-## 🏆 **Achievements**
-
-<table align="center" width="80%">
-  <tr align="center">
-    <td width="25%" style="border: 2px solid #FFD966; border-radius: 15px; padding: 15px;">
-      <h2>🏆</h2>
-      <h3>Hackathon Winner</h3>
-      <p>Multiple wins shipping under tight deadlines</p>
-    </td>
-    <td width="25%" style="border: 2px solid #6C63FF; border-radius: 15px; padding: 15px;">
-      <h2>💡</h2>
-      <h3>Patent Contributor</h3>
-      <p>AI innovation in the pipeline</p>
-    </td>
-    <td width="25%" style="border: 2px solid #4ECDC4; border-radius: 15px; padding: 15px;">
-      <h2>🌍</h2>
-      <h3>Open Source</h3>
-      <p>Active contributor to community</p>
-    </td>
-    <td width="25%" style="border: 2px solid #FF6B6B; border-radius: 15px; padding: 15px;">
-      <h2>🎓</h2>
-      <h3>B.Tech CSE</h3>
-      <p>Chandigarh University 2024-28</p>
-    </td>
-  </tr>
+</td>
+</tr>
 </table>
 
----
-
-## 📝 **Latest Blog Posts**
+<br/>
 
 <p align="center">
-  <a href="https://hashnode.com/@devengoyal">
-    <img src="https://img.shields.io/badge/Read_my_blogs_on-Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" />
-  </a>
-</p>
-
-<!-- BLOG-POST-LIST:START -->
-✨ Check out my latest technical articles on Hashnode!
-<!-- BLOG-POST-LIST:END -->
-
----
-
-## 🌐 **Connect With Me**
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/deven-goyal/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/Devengoyal885"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://devengoyal.netlify.app"><img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
-  <a href="mailto:goyaldeven4809@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://hashnode.com/@devengoyal"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" /></a>
-  <a href="https://www.credly.com/users/deven-goyal_"><img src="https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white" /></a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Devengoyal885/Devengoyal885/output/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Devengoyal885/Devengoyal885/output/snake.svg">
+  <img alt="Snake animation eating contributions" src="https://raw.githubusercontent.com/Devengoyal885/Devengoyal885/output/snake.svg" width="100%">
+</picture>
 </p>
 
 ---
 
-## 🎯 **Currently Exploring**
+<h3 align="center">What I work with</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/System_Design-🔥-FF6B6B?style=for-the-badge&logo=diagramsdotnet&logoColor=white&labelColor=1A1A2E" />
-  <img src="https://img.shields.io/badge/Cloud_Computing-☁️-6C63FF?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=1A1A2E" />
-  <img src="https://img.shields.io/badge/Scalable_Backends-🔧-00D2FF?style=for-the-badge&logo=serverless&logoColor=white&labelColor=1A1A2E" />
-  <img src="https://img.shields.io/badge/AI_Integration-🧠-4ECDC4?style=for-the-badge&logo=openai&logoColor=white&labelColor=1A1A2E" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,mysql,js,python,cpp,c,tailwind,html,css,git,github,linux,figma,postman,vscode&perline=10&theme=dark" />
 </p>
+
+<p align="center"><sub>Frontend — React, Next.js, Tailwind &nbsp;·&nbsp; Backend — Node.js, Express, REST &nbsp;·&nbsp; Data — MongoDB, MySQL &nbsp;·&nbsp; AI — OpenAI, LangChain</sub></p>
+
+<br/>
 
 ---
 
+<h3 align="center">Right now</h3>
+
+<table align="center" width="100%">
+<tr align="center">
+<td width="25%">
+
+**System Design**
+Studying scale patterns, load balancing, and distributed data
+
+</td>
+<td width="25%">
+
+**Cloud**
+Getting hands-on with cloud-native deployment
+
+</td>
+<td width="25%">
+
+**Backends**
+Building APIs that hold up under real traffic
+
+</td>
+<td width="25%">
+
+**AI Integration**
+Wiring LLMs into everyday product workflows
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+---
+
+<h3 align="center">The numbers</h3>
+
+<div align="center">
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=Devengoyal885&show_icons=true&theme=transparent&hide_border=true&text_color=8A8FA3&icon_color=6C63FF&title_color=ffffff&hide_title=false" />
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devengoyal885&layout=compact&theme=transparent&hide_border=true&text_color=8A8FA3&title_color=ffffff&langs_count=6" />
+</div>
+
+<div align="center">
+<img src="https://streak-stats.demolab.com/?user=Devengoyal885&theme=dark&hide_border=true&background=00000000&stroke=6C63FF&ring=6C63FF&fire=00D2FF&currStreakLabel=8A8FA3&sideLabels=8A8FA3&currStreakNum=ffffff&sideNums=ffffff&dates=8A8FA3" />
+</div>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20&height=120&section=footer&text=Thanks%20for%20visiting!%20🚀&fontSize=24&fontColor=ffffff&animation=fadeIn&fontAlignY=72" width="100%" />
+<img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" height="60" title="Pull Shark"/>
+<img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" height="60" title="YOLO"/>
+<img src="https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png" height="60" title="Quickdraw"/>
 </p>
+
+<br/>
+
+---
+
+<h3 align="center">Find me</h3>
+
+<div align="center">
+
+[Email](mailto:goyaldeven4809@gmail.com) &nbsp;·&nbsp;
+[LinkedIn](https://www.linkedin.com/in/deven-goyal/) &nbsp;·&nbsp;
+[GitHub](https://github.com/Devengoyal885) &nbsp;·&nbsp;
+[Portfolio](https://devengoyal.netlify.app) &nbsp;·&nbsp;
+[Hashnode](https://hashnode.com/@devengoyal) &nbsp;·&nbsp;
+[Credly](https://www.credly.com/users/deven-goyal_deven-goyal_) &nbsp;·&nbsp;
+[X](https://x.com/DevenGoyal3091) &nbsp;·&nbsp;
+[Instagram](https://www.instagram.com/deven_goyal.28/)
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1A1A2E,100:0D1117&height=60&section=footer" width="100%"/>
